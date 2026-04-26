@@ -1,0 +1,18 @@
+# Rust
+target/
+Cargo.lock.*
+
+# JSON output of evt-cli (kept out of git except the demo file)
+tail.json
+tail_synthetic.json
+!figures/tail_synthetic.json
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Python helper artefacts
+__pycache__/
+*.pyc
