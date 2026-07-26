@@ -2,7 +2,7 @@
 
 **Extreme-value analysis of cross-asset tail dependence.**
 
-> Supports [Peaks-over-threshold and pairwise tail-coupling](https://www.daru.finance/projects/tail-evt) on [daru.finance](https://www.daru.finance), where Daniel Gatto publishes the research this belongs to.
+> Supports [Peaks-over-threshold and pairwise tail-coupling](https://daru.finance/projects/tail-evt) on [daru.finance](https://daru.finance), where Daniel Gatto publishes the research this belongs to.
 
 Peaks-over-threshold with Generalised Pareto fits on joint asset exceedances.
 A compact Rust core handles per-asset GPD fitting and pairwise empirical χ
